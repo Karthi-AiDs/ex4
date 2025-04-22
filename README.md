@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 22/04/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -139,16 +139,13 @@ Key areas within a hospital include the emergency department (ED), operating roo
 
 ## OUTPUT
 
-[text](myproj/mapapp/static/home.html) 
+![Screenshot (45)](https://github.com/user-attachments/assets/011e50e1-f465-4696-a3ab-55f8ab4709f0)
 
-[text](myproj/mapapp/static/Suba.html) 
+![Screenshot (46)](https://github.com/user-attachments/assets/bd45344f-26fd-4fc5-a14d-8e3562d31eb8)
 
-[text](myproj/mapapp/static/KalayanaMahal.html) 
+![Screenshot (43)](https://github.com/user-attachments/assets/798e9605-9733-4c63-8a90-947e4db4e0a2)
 
-[text](myproj/mapapp/static/Hospital.html) 
-
-[text](myproj/mapapp/static/idaiyar.html)
-
+![Screenshot (44)](https://github.com/user-attachments/assets/bfb0fc6f-1793-4eea-8cb5-583d2e73da14)
 
 
 ## RESULT
